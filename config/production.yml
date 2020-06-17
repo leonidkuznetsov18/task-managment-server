@@ -1,0 +1,5 @@
+server:
+  origin: 'http://task-management-client.s3-website.us-east-2.amazonaws.com'
+
+db:
+  synchronize: false
